@@ -82,9 +82,8 @@ AstraView 不是看图软件，也不是播放器。
 - **开发者**：xuxk  
 - **版本**：v1.0.0  
 - **授权类型**：个人免费使用（禁止商用）  
-- **官方网站**：[GitHub/AstraView-Release](https://github.com/xuxk-cn-/AstraView-Release)
+- **官方网站**：[GitHub/AstraView-Release](https://github.com/xuxk-cn/AstraView-Release)
 
 > 🌠 AstraView —  
 > 让你的电脑重新拥有「一眼看尽万物」的能力。
-
 
