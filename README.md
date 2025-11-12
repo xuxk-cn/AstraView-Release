@@ -40,7 +40,7 @@ AstraView 不是看图软件，也不是播放器。
 
 ## 📦 下载
 
-➡️ [**下载 AstraView_v1.0.0_win64.7z**](https://github.com/xuxk-cn/AstraView-Release/releases/latest)
+➡️ [**下载 AstraView_v1.0.0_win64.7z**](https://github.com/xuxk-cn/AstraView-Release/releases/download/v1.0.0/AstraView_v1.0.0_win64.7z)
 
 > 解压后直接运行 `AstraView.exe`  
 > 无需安装，无广告，无后台常驻。  
@@ -86,4 +86,5 @@ AstraView 不是看图软件，也不是播放器。
 
 > 🌠 AstraView —  
 > 让你的电脑重新拥有「一眼看尽万物」的能力。
+
 
